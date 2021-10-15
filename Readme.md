@@ -9,4 +9,4 @@ PyAutoGUI lets your Python scripts control the mouse and keyboard to automate in
 
 -enter password 
 
-- get your password
+-get your password
